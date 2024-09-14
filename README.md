@@ -1,4 +1,4 @@
-# Analyse des logements sociaux dans les Hauts-de-France (au 1er janvier 2023 - Données publiques)
+# Analyse des logements sociaux dans les Hauts-de-France au 1er janvier 2023 - Données publiques
 
 *(Réalisée en Août 2024)*
 
@@ -127,7 +127,7 @@ Concernant la classe énergétique :
 
 📌 Pour la typologie des logements, nous apercevons :
 
-Surface d'habitation :
+Surfaces d'habitation :
 
     Le parc récent (moins de 10 ans) tend à être composé de logements plus petits, avec une proportion plus élevée de logements de moins de 30 m² et entre 30 et 50 m².
     Les logements de plus grande surface (70 m² et plus) sont moins représentés dans le parc récent.
